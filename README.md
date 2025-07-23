@@ -1,1 +1,1 @@
-# 4807043__NITIN
+![SDLC](git/sdlc.png)
