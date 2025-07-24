@@ -1,1 +1,1 @@
-![SDLC](git/sdlc.png)
+![SDLC](sdlc/sdlc.png)
