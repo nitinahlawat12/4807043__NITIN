@@ -1,1 +1,4 @@
-![SDLC](sdlc/sdlc.png)
+## SDLC Diagram
+
+![SDLC Image](sdlc/sdlc.png)
+
