@@ -1,5 +1,9 @@
 ## SDLC Diagram
 
 ![SDLC Image](sdlc/sdlc.png)
-![git image](git/certificate)
+
+## Git Certificate
+
+![Git Certificate](git/certificate.png)
+
 
