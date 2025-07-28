@@ -4,6 +4,7 @@
 
 ## Git Certificate
 
-![Git Certificate](git/certificate.png)
+![Git Certificate](git/gitcertificate.png)
+
 
 
